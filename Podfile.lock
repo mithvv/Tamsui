@@ -1,0 +1,17 @@
+PODS:
+  - Alamofire (1.1.4)
+  - CocoaLumberjack (1.9.2):
+    - CocoaLumberjack/Extensions (= 1.9.2)
+  - CocoaLumberjack/Core (1.9.2)
+  - CocoaLumberjack/Extensions (1.9.2):
+    - CocoaLumberjack/Core
+
+DEPENDENCIES:
+  - Alamofire
+  - CocoaLumberjack
+
+SPEC CHECKSUMS:
+  Alamofire: 524225da382071ee3e6d0badd0ee4b4dc36740de
+  CocoaLumberjack: 205769c032b5fef85b92472046bcc8b7e7c8a817
+
+COCOAPODS: 0.36.1
